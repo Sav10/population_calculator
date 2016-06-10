@@ -1,0 +1,7 @@
+# Too large files #
+###################
+
+data/grids1km_pop_lambert.pkl
+data/grids1km_pop_lambert.csv
+data/geostat/GEOSTATReferenceGrid/Grid_ETRS89_LAEA_1K-ref_GEOSTAT_POP_2011_V2_0_1.dbf
+data/geostat/GEOSTATReferenceGrid/Grid_ETRS89_LAEA_1K-ref_GEOSTAT_POP_2011_V2_0_1.shp
